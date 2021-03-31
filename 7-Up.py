@@ -4,7 +4,7 @@ while True:
         float(game_end)
         break
     except:
-        print('Error dumbass')
+        print('Error')
 
 order_choice = input('Enter Yes to start first or No for CPU start: ')
 
